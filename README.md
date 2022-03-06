@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-<img src= "https://imgur.com/gallery/KjQZXs1" width=250><br>
+![ezgif-5-d478478065](https://user-images.githubusercontent.com/60701052/156907291-732abed6-4dfb-4cef-927c-d4b68a33cf8b.gif)
 
 ### Notes
 
@@ -28,4 +28,3 @@ Describe any challenges encountered while building the app.
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
-![ezgif-5-d478478065](https://user-images.githubusercontent.com/60701052/156907291-732abed6-4dfb-4cef-927c-d4b68a33cf8b.gif)
